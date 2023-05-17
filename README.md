@@ -4,4 +4,4 @@ This python script is meant to go throught the IT section of available jobs on "
 
 ## What was used?
 
-This project uses the BeautifulSoup to go through the html code
+This project uses the BeautifulSoup to go through the html code, Sqlite3 to create a Database and insert values
